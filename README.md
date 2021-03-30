@@ -15,3 +15,4 @@ Linux
 1.	Pwd …. Print working directory 
 2.	/ LS … list / Cd… change directory 
 and a lot more There are a lot of ways to open the terminals There are 2 types of paths we can use, absolute and relative Everything is a file under Linux Even directories.
+test
