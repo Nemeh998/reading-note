@@ -29,8 +29,24 @@
 :checkered_flag: When I feel myself losing focus, I try to remember that short-term frustration will likely result in long-term improvement of my abilities – if I just stay with it
 
 
+The features was used:
+
+list
+table
+Using emoji
+Headings
+Styling text
+bold
+italic
+link
+photo
 
 
+ :eyes: [my github](https://github.com/Nemeh998)
 
-* #### my github
-https://github.com/Nemeh998
+|number | title |
+|---|---|
+|1 |  read3.md  |
+|2 |  readone.md  |
+|3 | readtow.md   |
+|4 |  README.md  |
