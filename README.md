@@ -1,18 +1,36 @@
-Text Editor
-A text editor is a piece of software that you download and install on your computer, or you access online through your web browser 
- 
-features should you look for in a text editor?
-1.	code completion
-2.	a nice variety of themes
-3.	highlighting
-4.	reduce eye strain and fatigue
-5.	the ability to choose from a healthy
+# growth mindset
+![growth mindset](https://3kllhk1ibq34qk6sp3bhtox1-wpengine.netdna-ssl.com/wp-content/uploads/2015/11/growth-mindset.png)
 
-Linux
- totally focus on the command line (Terminal) instead of the graphical user interface, A command line, or terminal, is a text-based interface to the system as You are able to enter commands by typing them on the keyboard and feedback will be given to you similarly as text, using the terminal allows the developer to add, remove and delete files on the system. Terminals
- have a big advantage as we can have several command lines open and doing different tasks in each at the same time. We can also easily access on everything on the system
-•	. Terminals is full of shortcuts to help make the developer life easier Such as: 
-1.	Pwd …. Print working directory 
-2.	/ LS … list / Cd… change directory 
-and a lot more There are a lot of ways to open the terminals There are 2 types of paths we can use, absolute and relative Everything is a file under Linux Even directories.
-test
+## What is a growth mindset?
+>A growth mindset believes that one’s fundamental abilities can be developed through perseverance and effort; intelligence and talent are simply good starting points. A growth mindset is synonymous with a love of learning.
+
+
+
+
+
+### How to improve our ability
+
+   
+   - [ ] Challenges
+   - [ ] Obstacles
+   - [ ] Effort
+   - [ ] Criticism
+   - [ ] Success of others
+
+
+  #### how to keep yourself in a growth mindset
+:checkered_flag: take a step back, and think about the growth mindset. When I’m ready, I walk through the problem once again, bit by bit, looking for new ways to think about it until I start to see another way forward
+    
+
+:checkered_flag: ask myself two questions:
+
+ * What was the best part of the day?
+ * What went wrong, and how can I make sure it doesn’t happen again?
+:checkered_flag: When I feel myself losing focus, I try to remember that short-term frustration will likely result in long-term improvement of my abilities – if I just stay with it
+
+
+
+
+
+* #### my github
+https://github.com/Nemeh998
