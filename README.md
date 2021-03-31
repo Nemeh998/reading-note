@@ -17,7 +17,8 @@ I am very grateful for joining this course and I hope to develop myself in it an
 |---|---|
 |1 |   [markdawn](myprofile.md)|
 |2 |  [Text Editor](readone.md)  |
-|3 | [readtow.md](readone.md)   |
-|4 |  [README.md](README.md)  |
+|3 | [command line](readtow.md)   |
+|4 |  [README.md](README.md)|
 |5|  [groth mind](myprofile.md)  |
-|5| [read3](read3.md)  |
+|6|  [Git](git.md)  |
+
