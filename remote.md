@@ -3,9 +3,9 @@
 ## Intoduction
 **I need to talk about what i learned today**
 
-* In the class we learned how to use and put the image and Url in the class.
-* How i can play with text on font specify.
-* How i can make a table and how to add data in this table.
+- [ ] * In the class we learned how to use and put the image and Url in the class.
+- [ ] * How i can play with text on font specify.
+- [ ] * How i can make a table and how to add data in this table.
 
 ## How i can use Terminal in this work
 * in the first step we need to use ubentou virtual machine.
@@ -26,4 +26,3 @@
                 * And need Password
                 * You are finished and you can to go to the Github user and checked the New_file your created is found.
 
-**I am talked About how you can make a project in gethub by terminal**
