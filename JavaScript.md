@@ -1,6 +1,24 @@
+
+
 ![j](https://www.infragistics.com/community/cfs-file/__key/communityserver-blogs-components-weblogfiles/00-00-00-09-43/dev_2D00_tools_2D00_ignite_2D00_ui_2D00_javascript_2D00_part11.jpg)
 
-
+### what is the scrpit
++ A script is a series of instructions that the computer
+can follow in order to achieve a goal.
+Each time the script runs, it might only use a subset of
+all the instructions.
++ Computers approach tasks in a different way than
+humans, so your instructions must let the computer
+solve the task prggrammatically.
++ To approach writing a script, break down your goal into
+a series of tasks and then work out each step needed
+to complete that task (a flowchart can help). 
+### EXAMPLES OF JAVASCRIPT IN THE BROWSER
++ Access the content of the page
++ Modify the content of the page
++ Program rules or instructions the browser can follow
++ React to events triggered by the user or browser 
+ 
  # An expression 
 >* ### there are two types of expressions. 
 |  In order for a variable to be useful, it needs to begiven a value. As you have seen, this is done using the assignment operator (the equals sign). |    
@@ -53,48 +71,65 @@ address for the site, which is
 known as an absolute URL.
 
 
-![lim](https://resources.jetbrains.com/help/img/idea/2020.3/ws_css_enable_completion_for_external_libs_light.png)
-
-| EXPRESSIONS THAT JUST ASSIGN A VALUE TO A VARIABLE In order for a variable to be useful, it needs to be given a value. As you have seen, this is done using the assignment operator (the equals sign).
-  |   |
-|---|---|
-|---|---|
-|---|---|
-
->### Absolute URLs
-| URL stands for Uniform Resource Locator. Every web page has its own URL. This is the web address that you would type into a browser if you wanted tovisit that specific page.|      |
-|---|---|
-|An absolute URL starts with the domain name for that site,and can be followed by the path to a specific page. If no page is specified, the site will display thehomepage.||
-
-
-![c](https://mlqmtwka8c9g.i.optimole.com/gOh5_1g.Ga1T~1cfa5/w:764/h:321/q:90/https://www.competethemes.com/wp-content/uploads/2016/03/wordpress-link-part-page-1.png)
+![lim](https://scriptverse.academy/img/tutorials/js-callback-function.png)
 
 
 
+### WHAT IS A FUNCTION? 
 
-## Linking to a Specific Part of Another Page
-If you want to link to a specific
-part of a different page (whether
-on your own site or a different
-website) you can use a similar
-technique.
-As long as the page you are
-linking to has id attributes that
-identify specific parts of the
-page, you can simply add the
-same syntax to the end of the
-link for that page.
-Therefore, the href attribute
-will contain the address for the
-page (either an absolute URL or
-a relative URL), followed by the
-# symbol, followed by the value
-of the id attribute that is used on
-the element you are linking to.
-For example, to link to the
-bottom of the homepage of the
-website that accompanies this
-book, you would write:
-<a href="http:/www.
-htmlandcssbookcom/
-#bottom">
+##### Grouping together the statements that are required to answer a question or perform a task helps organize your code
+
+
+
+>### A BASIC FUNCTION  
+
+In this example, the user is shown a message at the top of the page. The message is held in an HTML element whose id attribute has a value of message. The message is going to be changed using JavaScript.
+```
+<!DOCTYPE html>
+<html>
+<head>
+Before the closing </body>
+tag, you can see the link to the
+JavaScript file. The JavaScript
+file starts with a variable used
+to hold a new message, and is
+followed by a function called
+updateMessage().
+<ti t l e>Basic Function</title>
+<l i nk rel ="stylesheet" href="css/ c03.css" />
+</head>
+<body>
+<hl>TravelWorthy</ hl>
+<div id="message">We lcome to our site! </ div>
+<script src="js/ basic-function .js"></script>
+</ body>
+</ html> 
+```
+
+
+
+* These statements update the message at the top of the page. The function acts like a store; itholds the statements that are contained in the curly braces until you are ready to use them.Those statements are not run until the function is called. The function is only called on the last line of this script. 
+```
+var msg = 'Sign up to receive our newsletter for 10% off!';
+function updateMessage() {
+var el = document.getElementByld('message'};
+el .textContent = msg;
+}
+updateMessage(}; 
+```
+
+
+![](https://media.geeksforgeeks.org/wp-content/cdn-uploads/Function-Prototype-in-c.png)
+
+|to create the function you give it a name and direct statement needed to achieve a task inside the curly braces |
+|  -|
+
+
+
+
+
+
+
+
+
+
