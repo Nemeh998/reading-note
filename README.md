@@ -23,5 +23,5 @@ I am very grateful for joining this course and I hope to develop myself in it an
 |8|  [html](readhtml.md)  |
 |9|[java](JavaScript.md)|
 |10|[read5](read5.md)|
-|11|[read6](read5.md)|
+|11|[read6](read6.md)|
 
