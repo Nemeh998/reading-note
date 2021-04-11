@@ -39,8 +39,9 @@ _______________
 # 201-reading-note
 # table of daily reading assignments:
 ____
-|read# | link  |
-|-- |--|
+
+|read | link  |
+|---|---|
 | read1 | [link1](class-01.md)   |
 | read2 | link2   |
 | read3 | link3   |
