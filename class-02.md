@@ -1,11 +1,6 @@
 # In this blog I will give a summary for the chapters 2 and 10 of the book: "HTML & CSS" and chapters 2 and 4 from the book: "Javascript and Jquery" 📚 :
 
--[x] Chapter 2: Text ✔️
- -[x]Chapter 10: Introducing 
- -[x] CSS ✔️
- -[x] Chapter 2: Basic
-  -[x] JavaScript Instructions ✔ 
- -[x] Chapter 4: Decisions and Loops ✔️
+
 
 #### Note: Keywords are emphasised.
 # Chapter 2: Text
