@@ -43,7 +43,7 @@ ____
 |read |link  |
 |---|---|
 |read1 |[link1](class-01.md)   |
-| read2 |link2|
+| read2 |[link2](class-02.md)|
 | read3 |link3|
 | read4 |link4|
 | read5 |link5|
