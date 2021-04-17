@@ -47,7 +47,7 @@ ____
 | read3 |[link3](class-03.md)|
 | read4 |[link4](class-04.md)|
 | read5 |[link5](class-05.md)|
- | read6 |[link6]()  |
+ | read6 |[link6](class-06.md)  |
 | read7 | link7   |
 | read8 | link8   |
 | read9 | link9   |
