@@ -49,7 +49,7 @@ ____
 | read5 |[link5](class-05.md)|
  | read6 |[link6](class-06.md)  |
 | read7 | [link7](class-07.md)   |
-| read8 | link8   |
+| read8 | [link8](class-08.md)   |
 | read9 | link9   |
 | read10 | link10   |
 | read11 | link11   |
