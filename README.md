@@ -51,7 +51,7 @@ ____
 | read7 | [link7](class-07.md)   |
 | read8 | [link8](class-08.md)   |
 | read9 | [link9](read-09.md)   |
-| read10 | link10   |
+| read10 | [link10](class-10.md)|
 | read11 | link11   |
 | read12 | link12   |
 | read13 | link13   |
