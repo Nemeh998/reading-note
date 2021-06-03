@@ -15,46 +15,9 @@ I am very grateful for joining this course and I hope to develop myself in it an
 
 
 
-## Code 101 Reading Notes
-## Code 102 Reading Notes
-
-table of daily reading assignments:
-_______________
- :eyes: [my github](https://github.com/Nemeh998)
-
-|number | title |
-|---|---|
-|1 |   [markdawn](myprofile.md)|
-|2 |  [Text Editor](readone.md)  |
-|3 | [command line](readtow.md)   |
-|6|  [groth mind](myprofile.md)  |
-|7|  [Git](git.md)  |
-|8|  [html](readhtml.md)  |
-|9|[java](JavaScript.md)|
-|10|[read5](read5.md)|
-|11|[read6](read6.md)|
 
 
-
-# 201-reading-note
-# table of daily reading assignments:
-____
-
-|read |link  |
-|---|---|
-|read1 |[link1](class-01.md)   |
-| read2 |[link2](class-02.md)|
-| read3 |[link3](class-03.md)|
-| read4 |[link4](class-04.md)|
-| read5 |[link5](class-05.md)|
- | read6 |[link6](class-06.md)  |
-| read7 | [link7](class-07.md)   |
-| read8 | [link8](class-08.md)   |
-| read9 | [link9](read-09.md)|
-| read10 |[link10](class-10.md)|
-| read11 | [link11 ](class-11.md)  |
-| read12 | [link12](class-12.md)  |
-| read13 | [link13](class-13.md) |
-| read14 | [link14](class-14.md)   |
-| read15 | [link15 ](class-15.md)  | 
-
+[Code 102](201.md) - Intro to Software Development
+[Code 201](201.md) - Foundations of Software Development
+[Code 301](301.md) - Intermediate Software Development
+[Code 401](401.md) - Advanced Software Development
