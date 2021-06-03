@@ -17,7 +17,7 @@ I am very grateful for joining this course and I hope to develop myself in it an
 
 
 
-[Code 102](201.md) - Intro to Software Development
-[Code 201](201.md) - Foundations of Software Development
-[Code 301](301.md) - Intermediate Software Development
-[Code 401](401.md) - Advanced Software Development
+* [Code 102](201.md) - Intro to Software Development
+* [Code 201](201.md) - Foundations of Software Development
+* [Code 301](301.md) - Intermediate Software Development
+* [Code 401](401.md) - Advanced Software Development
