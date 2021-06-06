@@ -49,3 +49,4 @@ properties
 * Then pass it to child component(s) by using Props
 * Finally, render the Props Data
 ## What is the flow of props?
+*uni-directional flow. (one way from parent to child)
