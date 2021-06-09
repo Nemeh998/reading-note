@@ -16,6 +16,6 @@ If so, it isn’t state.
 State needs to live within the component that the specific data is getting used or modified.
 The whole article on this is review from Read-01 and Read-02 notes.
 
-# Questions:
+## Questions:
 
 More of a comment, but I need as much practice as I can get. I thought I grasped a topic on day 2 in React then when something else was introduced, the ideas got jumbled up in my brain and I got confused again. On day 4, with different explanations given things are starting to fit together again, but I just need to practice implementing props, state, passing data between elements, and using functions / classes to pass data as well.
