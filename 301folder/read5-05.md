@@ -10,11 +10,12 @@ Functions / classes to actually use the data brought in from the API or external
 Quoted directly from website:
 Is it passed in from a parent via props? If so, it probably isn’t state.
 Does it remain unchanged over time? If so, it probably isn’t state.
-# Can you compute it based on any other state or props in your component? 
-If so, it isn’t state.
 # How can you identify where state needs to live?
 State needs to live within the component that the specific data is getting used or modified.
 The whole article on this is review from Read-01 and Read-02 notes.
+# Can you compute it based on any other state or props in your component? 
+If so, it isn’t state.
+
 
 ## Questions:
 
