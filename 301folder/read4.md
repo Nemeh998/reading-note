@@ -1,5 +1,5 @@
 ## What is a "Controlled Component"?
-An input form element whose value is controlled by React in this way is called a “controlled component”.In HTML, form elements such as <input>, <textarea>, and <select> typically maintain their own state and update it based on user input. In React, mutable state is typically kept in the state property of components, and only updated with setState().
+An input form element whose value is controlled by React in this way is called a “controlled component”.In HTML, form elements such as , <te>,xtarea an typically maintain their own state and update it based on user input. In React, mutable state is typically kept in the state property of components, and only updated with setState().
 
 ## forms:
 The <FormControl> component renders a form control with Bootstrap styling
